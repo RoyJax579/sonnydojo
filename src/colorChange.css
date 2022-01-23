@@ -1,0 +1,16 @@
+#colorChange #colored{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+
+#colorChange{
+    display: block;
+}
+
+#colorChange button{
+    background-color: beige;
+    padding:10px;
+    border-radius: 120px;
+}
